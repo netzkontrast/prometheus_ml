@@ -94,7 +94,7 @@ html_theme_options = {
     "sidebar_width": '200px',
     "stickysidebar": True,
     "stickysidebarscrollable": True,
-    "contribute": True,
+    "contribute": False,
     "github_fork": "netzkontrast/prometheus_ml",
     "github_user": "netzkontrast",
 }

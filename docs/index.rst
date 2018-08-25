@@ -1,4 +1,4 @@
-Welcome to Prometheus Machine Learning Framework 's documentation!
+Prometheus Machine Learning Framework
 ======================================
 
 .. toctree::

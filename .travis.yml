@@ -1,6 +1,5 @@
 language: python
 python:
-- 3.6
 - 3.5
 install: pip install -U tox-travis
 script: tox
@@ -13,4 +12,4 @@ deploy:
   on:
     tags: true
     repo: netzkontrast/prometheus_ml
-    python: 3.6
+    python: 3.5

@@ -9,8 +9,8 @@ Prometheus Machine Learning Framework
 .. image:: https://img.shields.io/travis/netzkontrast/prometheus_ml.svg
         :target: https://travis-ci.org/netzkontrast/prometheus_ml
 
-.. image:: https://readthedocs.org/projects/prometheus-ml/badge/?version=latest
-        :target: https://prometheus-ml.readthedocs.io/en/latest/?badge=latest
+.. image:: https://readthedocs.org/projects/prometheus-ml/badge/?version=master
+        :target: https://prometheus-ml.readthedocs.io/?badge=master
         :alt: Documentation Status
 
 
