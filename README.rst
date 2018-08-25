@@ -1,5 +1,5 @@
 ======================================
-Prometheus Machine Learning Framework 
+Prometheus Machine Learning Framework
 ======================================
 
 
@@ -20,7 +20,7 @@ Prometheus Machine Learning Framework
 
 
 
-Machine Learning Framework, standing on the shoulders of TITANS 
+Machine Learning Framework, standing on the shoulders of TITANS
 
 
 * Free software: MIT license
@@ -31,11 +31,3 @@ Features
 --------
 
 * TODO
-
-Credits
--------
-
-This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypackage`_ project template.
-
-.. _Cookiecutter: https://github.com/audreyr/cookiecutter
-.. _`audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
