@@ -12,7 +12,7 @@ pytest==3.7.2
 pytest-runner==4.2
 groundwork-sphinx-theme==1.0.8
 
-scipy==1.1.0
+scipy==1.2.0
 plotly==3.5.0
 dash==0.35.1
 dash_core_components==0.42.0
