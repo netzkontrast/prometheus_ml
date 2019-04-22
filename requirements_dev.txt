@@ -10,7 +10,7 @@ twine==1.13.0
 
 pytest==4.4.1
 pytest-runner==4.4
-groundwork-sphinx-theme==1.0.8
+groundwork-sphinx-theme==1.0.9
 
 scipy==1.2.1
 plotly==3.8.1
