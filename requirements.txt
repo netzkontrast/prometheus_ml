@@ -2,7 +2,7 @@ plotly==3.9.0
 dash==0.43.0
 dash_core_components==0.48.0
 dash_html_components==0.16.0
-pandas==0.23.4
+pandas==0.24.2
 click==6.7
 numpy==1.15.1
 scikit-learn==0.19.2
