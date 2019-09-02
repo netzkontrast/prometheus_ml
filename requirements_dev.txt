@@ -20,5 +20,5 @@ dash_html_components==1.0.1
 pandas==0.25.1
 click==7.0
 numpy==1.17.1
-scikit-learn==0.19.2
+scikit-learn==0.21.3
 joblib==0.12.2
