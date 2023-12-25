@@ -9,7 +9,7 @@ Sphinx==7.2.6
 twine==4.0.2
 
 pytest==7.4.3
-pytest-runner==4.2
+pytest-runner==6.0.1
 groundwork-sphinx-theme==1.0.8
 
 scipy==1.11.4
